@@ -1,4 +1,4 @@
 streamlit
 pandas
 nltk
-transfomers
+transfomers == 4.33.2
